@@ -23,7 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
-*SceneExporter.cs
+002_unity (1)\002_unity\Assets\Editor\SceneExporter*.cs
 
 # Unity3D generated meta files
 *.pidb.meta
