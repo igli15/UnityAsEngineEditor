@@ -14,10 +14,7 @@ public class GridComponent : MonoBehaviour
     
     [SerializeField]
     private GameObject cube;
-    [SerializeField]
-    private GameObject cube2;
     private GameObject[] cubes;
-    private int counter =0;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,21 +23,12 @@ public class GridComponent : MonoBehaviour
         {
             for(int width = 0; width < gridSizeX; width++)
             {
-                if(counter%2 == 0)
-                {
-                    cubes[width] = Instantiate<GameObject>(cube, new Vector3(0 - width*cubeSize*2,0,0 + height*cubeSize*2), Quaternion.identity);
+                    cubes[width] = Instantiate<GameObject>(cube, new Vector3(0 - width*cubeSize,0,0 + height*cubeSize), Quaternion.identity);
+                    cubes[width].gameObject.transform.SetParent(this.transform);
                     cubes[width].gameObject.transform.localScale*=cubeSize;
                     cubes[width].gameObject.name = "Cube";
-                } 
-                else
-                { 
-                    cubes[width] = Instantiate<GameObject>(cube2, new Vector3(0 - width*cubeSize*2,0,0 + height*cubeSize*2), Quaternion.identity); 
-                    cubes[width].gameObject.transform.localScale*=cubeSize;
-                    cubes[width].gameObject.name = "Cube";
-                }
-                counter++;
+               
             }
-            counter++;
         }
     }
 

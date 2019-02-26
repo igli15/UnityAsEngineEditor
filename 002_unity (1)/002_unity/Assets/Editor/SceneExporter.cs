@@ -19,7 +19,7 @@ public class SceneExporter : Editor {
 
 		string path = Application.dataPath + "/" + scene.name + ".xml";
 		
-		string mgePath = @"C:\Users\Igli\Desktop\Project-Third-Person\mge_v18_student_version\assets\mge\scenes\" + scene.name + ".xml";
+		string mgePath = @"D:\Den Haag\Program Files (x86)\Project3rdPerson\mge_v18_student_version\assets\mge\scenes\" + scene.name + ".xml";
 		 
         sceneXml.Save(path);
 		sceneXml.Save(mgePath);

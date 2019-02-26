@@ -93,7 +93,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   materialName: IceMat
   shininess: 16
-  emissionScale: 0.12
+  emissionScale: 0.8
   diffuseTextureName: iceDiffuse
   specularTextureName: iceSpecular
   emissionTextureName: iceEmission
