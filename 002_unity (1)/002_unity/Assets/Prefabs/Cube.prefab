@@ -91,7 +91,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 672b0aaefb7d9a54ea0add9a6ec18ee3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  materialName: LavaMat
+  materialName: NeutralMat
   shininess: 2
   emissionScale: 0.43
   diffuseTextureName: lavaDiffuse
