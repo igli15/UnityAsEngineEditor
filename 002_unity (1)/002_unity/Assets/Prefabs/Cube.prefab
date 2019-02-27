@@ -91,13 +91,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 672b0aaefb7d9a54ea0add9a6ec18ee3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  materialName: neutralTileMat
+  materialName: LavaMat
   shininess: 2
-  emissionScale: 0.8
-  diffuseTextureName: neutralDiffuse
-  specularTextureName: NONE
-  emissionTextureName: NONE
-  normalTextureName: NONE
+  emissionScale: 0.43
+  diffuseTextureName: lavaDiffuse
+  specularTextureName: lavaDiffuse
+  emissionTextureName: lavaEmission
+  normalTextureName: lavaNormal
   diffuseColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1790968558138285997
 MonoBehaviour:

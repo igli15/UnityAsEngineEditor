@@ -10,7 +10,7 @@ public class GridComponent : MonoBehaviour
     private int gridSizeY;
 
     [SerializeField]
-    private float cubeSize;
+    private float tileRadius;
     
     [SerializeField]
     private GameObject cube;
@@ -23,9 +23,9 @@ public class GridComponent : MonoBehaviour
         {
             for(int width = 0; width < gridSizeX; width++)
             {
-                    cubes[width] = Instantiate<GameObject>(cube, new Vector3(0 - width*5,0,0 + height*5), Quaternion.identity);
+                    cubes[width] = Instantiate<GameObject>(cube, new Vector3(0 - width*tileRadius*2,0,0 + height*tileRadius*2), Quaternion.identity);
                     cubes[width].gameObject.transform.SetParent(this.transform);
-                    cubes[width].gameObject.transform.localScale*=cubeSize;
+                    cubes[width].gameObject.transform.localScale*=tileRadius*2;
                     cubes[width].gameObject.name = "Cube";
                
             }
@@ -44,7 +44,7 @@ public class GridComponent : MonoBehaviour
 
     public float GetTileRadius()
     {
-        return cubeSize;
+        return tileRadius;
     }
 
 }
