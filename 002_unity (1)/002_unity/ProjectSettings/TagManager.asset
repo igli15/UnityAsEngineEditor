@@ -7,6 +7,9 @@ TagManager:
   - model
   - Sphere
   - Cube
+  - Wall
+  - playerOneModel
+  - playerTwoModel
   layers:
   - Default
   - TransparentFX

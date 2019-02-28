@@ -94,10 +94,10 @@ MonoBehaviour:
   materialName: NeutralMat
   shininess: 2
   emissionScale: 0.43
-  diffuseTextureName: lavaDiffuse
-  specularTextureName: lavaDiffuse
-  emissionTextureName: lavaEmission
-  normalTextureName: lavaNormal
+  diffuseTextureName: NeutralMat
+  specularTextureName: NONE
+  emissionTextureName: NONE
+  normalTextureName: wallNormal
   diffuseColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1790968558138285997
 MonoBehaviour:
