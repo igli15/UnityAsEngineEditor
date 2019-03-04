@@ -61,12 +61,12 @@ public class SceneExporter : Editor {
 
         Vector3 position = pTransform.localPosition;
         position.x *= -1;
-		node.SetAttribute("position", position.ToString());
+		node.SetAttribute("position", position.ToString("G9"));
 
 		Quaternion rotation = pTransform.localRotation;
         rotation.y *= -1;
         rotation.z *= -1;
-		node.SetAttribute("rotation", rotation.ToString());
+		node.SetAttribute("rotation", rotation.ToString("G9"));
 
 		node.SetAttribute("scale", pTransform.localScale.ToString());
 
