@@ -10,6 +10,10 @@ TagManager:
   - Wall
   - playerOneModel
   - playerTwoModel
+  - orb
+  - player
+  - players
+  - GroundTile
   layers:
   - Default
   - TransparentFX

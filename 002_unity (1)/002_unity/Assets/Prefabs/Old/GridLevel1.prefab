@@ -111,6 +111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &130439361757286911
 GameObject:
   m_ObjectHideFlags: 0
@@ -222,6 +224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &149825795316420738
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,6 +337,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &183876972867175483
 GameObject:
   m_ObjectHideFlags: 0
@@ -444,6 +450,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &261539540965435080
 GameObject:
   m_ObjectHideFlags: 0
@@ -555,6 +563,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &386840606964289433
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,6 +676,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &400513190285365273
 GameObject:
   m_ObjectHideFlags: 0
@@ -777,6 +789,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &418256853544513963
 GameObject:
   m_ObjectHideFlags: 0
@@ -888,6 +902,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &507651448067698207
 GameObject:
   m_ObjectHideFlags: 0
@@ -999,6 +1015,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &639297603108949846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1110,6 +1128,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &656205785241486034
 GameObject:
   m_ObjectHideFlags: 0
@@ -1221,6 +1241,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &667709548174661320
 GameObject:
   m_ObjectHideFlags: 0
@@ -1332,6 +1354,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &675868306017004905
 GameObject:
   m_ObjectHideFlags: 0
@@ -1443,6 +1467,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &758395444449443928
 GameObject:
   m_ObjectHideFlags: 0
@@ -1554,6 +1580,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &837520490338000595
 GameObject:
   m_ObjectHideFlags: 0
@@ -1665,6 +1693,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &846387245007242541
 GameObject:
   m_ObjectHideFlags: 0
@@ -1776,6 +1806,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &861333738706994836
 GameObject:
   m_ObjectHideFlags: 0
@@ -1887,6 +1919,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &867216504883314991
 GameObject:
   m_ObjectHideFlags: 0
@@ -1998,6 +2032,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1043091075639839629
 GameObject:
   m_ObjectHideFlags: 0
@@ -2109,6 +2145,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1057178294662081886
 GameObject:
   m_ObjectHideFlags: 0
@@ -2220,6 +2258,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1078468526963722339
 GameObject:
   m_ObjectHideFlags: 0
@@ -2331,6 +2371,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1086371179050011806
 GameObject:
   m_ObjectHideFlags: 0
@@ -2442,6 +2484,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1144792052393489948
 GameObject:
   m_ObjectHideFlags: 0
@@ -2553,6 +2597,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1167686870057620115
 GameObject:
   m_ObjectHideFlags: 0
@@ -2664,6 +2710,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1186708472780495290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2775,6 +2823,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1267648122758963281
 GameObject:
   m_ObjectHideFlags: 0
@@ -2886,6 +2936,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1343866421633314365
 GameObject:
   m_ObjectHideFlags: 0
@@ -2997,6 +3049,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1356908093317455084
 GameObject:
   m_ObjectHideFlags: 0
@@ -3108,6 +3162,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1368463555126841424
 GameObject:
   m_ObjectHideFlags: 0
@@ -3219,6 +3275,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1403986770510202964
 GameObject:
   m_ObjectHideFlags: 0
@@ -3330,6 +3388,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1435327650461123670
 GameObject:
   m_ObjectHideFlags: 0
@@ -3441,6 +3501,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1448173969149027324
 GameObject:
   m_ObjectHideFlags: 0
@@ -3552,6 +3614,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1565817229340918198
 GameObject:
   m_ObjectHideFlags: 0
@@ -3663,6 +3727,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1576281669407496509
 GameObject:
   m_ObjectHideFlags: 0
@@ -3774,6 +3840,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1599085978150938871
 GameObject:
   m_ObjectHideFlags: 0
@@ -3885,6 +3953,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1600220164853247927
 GameObject:
   m_ObjectHideFlags: 0
@@ -3996,6 +4066,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1637471162472753193
 GameObject:
   m_ObjectHideFlags: 0
@@ -4107,6 +4179,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1661727596590190147
 GameObject:
   m_ObjectHideFlags: 0
@@ -4218,6 +4292,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1696333052451352535
 GameObject:
   m_ObjectHideFlags: 0
@@ -4329,6 +4405,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1732510883297877060
 GameObject:
   m_ObjectHideFlags: 0
@@ -4440,6 +4518,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1733364345605777617
 GameObject:
   m_ObjectHideFlags: 0
@@ -4551,6 +4631,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1781762672692187554
 GameObject:
   m_ObjectHideFlags: 0
@@ -4662,6 +4744,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1848546552597336052
 GameObject:
   m_ObjectHideFlags: 0
@@ -4773,6 +4857,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1867150036188155372
 GameObject:
   m_ObjectHideFlags: 0
@@ -4884,6 +4970,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1901050111542541097
 GameObject:
   m_ObjectHideFlags: 0
@@ -4995,6 +5083,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1927161594789922711
 GameObject:
   m_ObjectHideFlags: 0
@@ -5106,6 +5196,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &1930362403609687086
 GameObject:
   m_ObjectHideFlags: 0
@@ -5217,6 +5309,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2010590889647215192
 GameObject:
   m_ObjectHideFlags: 0
@@ -5328,6 +5422,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2013209101028024443
 GameObject:
   m_ObjectHideFlags: 0
@@ -5439,6 +5535,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2039704725081480126
 GameObject:
   m_ObjectHideFlags: 0
@@ -5550,6 +5648,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2045694273350951574
 GameObject:
   m_ObjectHideFlags: 0
@@ -5661,6 +5761,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2051008240911019932
 GameObject:
   m_ObjectHideFlags: 0
@@ -5772,6 +5874,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2095854347954918676
 GameObject:
   m_ObjectHideFlags: 0
@@ -5883,6 +5987,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2096972207062699241
 GameObject:
   m_ObjectHideFlags: 0
@@ -5994,6 +6100,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2104229079606262813
 GameObject:
   m_ObjectHideFlags: 0
@@ -6105,6 +6213,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2111330125174039488
 GameObject:
   m_ObjectHideFlags: 0
@@ -6216,6 +6326,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2133640418306926414
 GameObject:
   m_ObjectHideFlags: 0
@@ -6327,6 +6439,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2144754726847745758
 GameObject:
   m_ObjectHideFlags: 0
@@ -6438,6 +6552,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2187732809042296297
 GameObject:
   m_ObjectHideFlags: 0
@@ -6549,6 +6665,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2198542761065445540
 GameObject:
   m_ObjectHideFlags: 0
@@ -6660,6 +6778,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2235082383191758719
 GameObject:
   m_ObjectHideFlags: 0
@@ -6771,6 +6891,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2241861572722666455
 GameObject:
   m_ObjectHideFlags: 0
@@ -6882,6 +7004,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2242496081677664426
 GameObject:
   m_ObjectHideFlags: 0
@@ -6993,6 +7117,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2255101200327545899
 GameObject:
   m_ObjectHideFlags: 0
@@ -7104,6 +7230,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2323037647493593569
 GameObject:
   m_ObjectHideFlags: 0
@@ -7215,6 +7343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2340835560483550539
 GameObject:
   m_ObjectHideFlags: 0
@@ -7326,6 +7456,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2349137574002962748
 GameObject:
   m_ObjectHideFlags: 0
@@ -7437,6 +7569,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2367922256782540979
 GameObject:
   m_ObjectHideFlags: 0
@@ -7548,6 +7682,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2377934627447407781
 GameObject:
   m_ObjectHideFlags: 0
@@ -7659,6 +7795,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2404591754817520302
 GameObject:
   m_ObjectHideFlags: 0
@@ -7770,6 +7908,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2427680968439371286
 GameObject:
   m_ObjectHideFlags: 0
@@ -7881,6 +8021,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2446808061939095255
 GameObject:
   m_ObjectHideFlags: 0
@@ -7992,6 +8134,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2498849898553707275
 GameObject:
   m_ObjectHideFlags: 0
@@ -8103,6 +8247,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2520364960037979704
 GameObject:
   m_ObjectHideFlags: 0
@@ -8214,6 +8360,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2540541525529117890
 GameObject:
   m_ObjectHideFlags: 0
@@ -8325,6 +8473,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2548960867630171422
 GameObject:
   m_ObjectHideFlags: 0
@@ -8436,6 +8586,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2556894477247009577
 GameObject:
   m_ObjectHideFlags: 0
@@ -8547,6 +8699,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2606044993897863088
 GameObject:
   m_ObjectHideFlags: 0
@@ -8658,6 +8812,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2622527987459828742
 GameObject:
   m_ObjectHideFlags: 0
@@ -8769,6 +8925,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2630320574178606442
 GameObject:
   m_ObjectHideFlags: 0
@@ -8880,6 +9038,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2631396945600020470
 GameObject:
   m_ObjectHideFlags: 0
@@ -8991,6 +9151,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2662910814700193167
 GameObject:
   m_ObjectHideFlags: 0
@@ -9102,6 +9264,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2678313702661097034
 GameObject:
   m_ObjectHideFlags: 0
@@ -9213,6 +9377,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2702145273351310037
 GameObject:
   m_ObjectHideFlags: 0
@@ -9324,6 +9490,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2706103974648590582
 GameObject:
   m_ObjectHideFlags: 0
@@ -9435,6 +9603,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2756237633770649596
 GameObject:
   m_ObjectHideFlags: 0
@@ -9546,6 +9716,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2770539276355042437
 GameObject:
   m_ObjectHideFlags: 0
@@ -9657,6 +9829,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2830090676129589568
 GameObject:
   m_ObjectHideFlags: 0
@@ -9768,6 +9942,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2857626820848466815
 GameObject:
   m_ObjectHideFlags: 0
@@ -9879,6 +10055,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2874755302525351121
 GameObject:
   m_ObjectHideFlags: 0
@@ -9990,6 +10168,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2877829515521027719
 GameObject:
   m_ObjectHideFlags: 0
@@ -10101,6 +10281,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2892494055807069227
 GameObject:
   m_ObjectHideFlags: 0
@@ -10212,6 +10394,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2908062737507322281
 GameObject:
   m_ObjectHideFlags: 0
@@ -10323,6 +10507,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2972539289100547935
 GameObject:
   m_ObjectHideFlags: 0
@@ -10434,6 +10620,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &2981350910456051411
 GameObject:
   m_ObjectHideFlags: 0
@@ -10545,6 +10733,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3030420706865515669
 GameObject:
   m_ObjectHideFlags: 0
@@ -10656,6 +10846,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3067711896725382181
 GameObject:
   m_ObjectHideFlags: 0
@@ -10767,6 +10959,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3087189964000673668
 GameObject:
   m_ObjectHideFlags: 0
@@ -10878,6 +11072,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3109578043708186380
 GameObject:
   m_ObjectHideFlags: 0
@@ -10989,6 +11185,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3110589010997149539
 GameObject:
   m_ObjectHideFlags: 0
@@ -11100,6 +11298,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3127729502773410666
 GameObject:
   m_ObjectHideFlags: 0
@@ -11211,6 +11411,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3142553110630359407
 GameObject:
   m_ObjectHideFlags: 0
@@ -11322,6 +11524,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3146382244524785684
 GameObject:
   m_ObjectHideFlags: 0
@@ -11433,6 +11637,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3146573250147572528
 GameObject:
   m_ObjectHideFlags: 0
@@ -11544,6 +11750,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3172798215170964715
 GameObject:
   m_ObjectHideFlags: 0
@@ -11655,6 +11863,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3212885733436244848
 GameObject:
   m_ObjectHideFlags: 0
@@ -11766,6 +11976,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3222357191256108370
 GameObject:
   m_ObjectHideFlags: 0
@@ -11877,6 +12089,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3286114668944112481
 GameObject:
   m_ObjectHideFlags: 0
@@ -11988,6 +12202,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3395519947949070535
 GameObject:
   m_ObjectHideFlags: 0
@@ -12099,6 +12315,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3504115572480833815
 GameObject:
   m_ObjectHideFlags: 0
@@ -12210,6 +12428,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3506406448112356780
 GameObject:
   m_ObjectHideFlags: 0
@@ -12321,6 +12541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3541357294515441598
 GameObject:
   m_ObjectHideFlags: 0
@@ -12432,6 +12654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3587079304899705225
 GameObject:
   m_ObjectHideFlags: 0
@@ -12543,6 +12767,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3608268709169998145
 GameObject:
   m_ObjectHideFlags: 0
@@ -12654,6 +12880,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3638833948509080961
 GameObject:
   m_ObjectHideFlags: 0
@@ -12765,6 +12993,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3677239359607806194
 GameObject:
   m_ObjectHideFlags: 0
@@ -12876,6 +13106,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3695089895293404109
 GameObject:
   m_ObjectHideFlags: 0
@@ -12987,6 +13219,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3706677369026214133
 GameObject:
   m_ObjectHideFlags: 0
@@ -13098,6 +13332,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3736372212755834068
 GameObject:
   m_ObjectHideFlags: 0
@@ -13209,6 +13445,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3750191045678260020
 GameObject:
   m_ObjectHideFlags: 0
@@ -13320,6 +13558,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3784381811771358335
 GameObject:
   m_ObjectHideFlags: 0
@@ -13431,6 +13671,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3798456568954737878
 GameObject:
   m_ObjectHideFlags: 0
@@ -13542,6 +13784,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3828264480606560056
 GameObject:
   m_ObjectHideFlags: 0
@@ -13653,6 +13897,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3831596323988339629
 GameObject:
   m_ObjectHideFlags: 0
@@ -13764,6 +14010,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3898392013991080795
 GameObject:
   m_ObjectHideFlags: 0
@@ -13875,6 +14123,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3963156418031728700
 GameObject:
   m_ObjectHideFlags: 0
@@ -13986,6 +14236,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &3971425581861794930
 GameObject:
   m_ObjectHideFlags: 0
@@ -14097,6 +14349,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4041995219737926764
 GameObject:
   m_ObjectHideFlags: 0
@@ -14208,6 +14462,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4113565510783631334
 GameObject:
   m_ObjectHideFlags: 0
@@ -14319,6 +14575,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4134780473687752049
 GameObject:
   m_ObjectHideFlags: 0
@@ -14430,6 +14688,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4139830935823540364
 GameObject:
   m_ObjectHideFlags: 0
@@ -14541,6 +14801,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4178057831610967017
 GameObject:
   m_ObjectHideFlags: 0
@@ -14652,6 +14914,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4179465122794202036
 GameObject:
   m_ObjectHideFlags: 0
@@ -14763,6 +15027,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4194719900807734319
 GameObject:
   m_ObjectHideFlags: 0
@@ -14874,6 +15140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4196683802763614953
 GameObject:
   m_ObjectHideFlags: 0
@@ -14985,6 +15253,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4204397864549411785
 GameObject:
   m_ObjectHideFlags: 0
@@ -15096,6 +15366,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4214689193047995863
 GameObject:
   m_ObjectHideFlags: 0
@@ -15207,6 +15479,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4251551387611172036
 GameObject:
   m_ObjectHideFlags: 0
@@ -15318,6 +15592,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4271325635610163732
 GameObject:
   m_ObjectHideFlags: 0
@@ -15429,6 +15705,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4289023379550469724
 GameObject:
   m_ObjectHideFlags: 0
@@ -15540,6 +15818,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4326245256719810829
 GameObject:
   m_ObjectHideFlags: 0
@@ -15651,6 +15931,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4328136318655863400
 GameObject:
   m_ObjectHideFlags: 0
@@ -15762,6 +16044,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4441656664306563943
 GameObject:
   m_ObjectHideFlags: 0
@@ -15873,6 +16157,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4455448461986677726
 GameObject:
   m_ObjectHideFlags: 0
@@ -15984,6 +16270,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4457598289616468985
 GameObject:
   m_ObjectHideFlags: 0
@@ -16095,6 +16383,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4484563379898319486
 GameObject:
   m_ObjectHideFlags: 0
@@ -16206,6 +16496,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4574196718526557206
 GameObject:
   m_ObjectHideFlags: 0
@@ -16317,6 +16609,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4610603380426707481
 GameObject:
   m_ObjectHideFlags: 0
@@ -16428,6 +16722,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4653904618180033821
 GameObject:
   m_ObjectHideFlags: 0
@@ -16539,6 +16835,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4678386806443576746
 GameObject:
   m_ObjectHideFlags: 0
@@ -16650,6 +16948,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4734237593358095461
 GameObject:
   m_ObjectHideFlags: 0
@@ -16761,6 +17061,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4747835002942244941
 GameObject:
   m_ObjectHideFlags: 0
@@ -16872,6 +17174,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4772431431756344760
 GameObject:
   m_ObjectHideFlags: 0
@@ -16983,6 +17287,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4804096921147377412
 GameObject:
   m_ObjectHideFlags: 0
@@ -17094,6 +17400,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4808406903534196131
 GameObject:
   m_ObjectHideFlags: 0
@@ -17205,6 +17513,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4813267523420631419
 GameObject:
   m_ObjectHideFlags: 0
@@ -17316,6 +17626,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4832291015210219495
 GameObject:
   m_ObjectHideFlags: 0
@@ -17427,6 +17739,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4857249759247138515
 GameObject:
   m_ObjectHideFlags: 0
@@ -17538,6 +17852,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4860632273147207800
 GameObject:
   m_ObjectHideFlags: 0
@@ -17649,6 +17965,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4861270886685907828
 GameObject:
   m_ObjectHideFlags: 0
@@ -17760,6 +18078,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4915052439183239112
 GameObject:
   m_ObjectHideFlags: 0
@@ -17871,6 +18191,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4961075927451535767
 GameObject:
   m_ObjectHideFlags: 0
@@ -17982,6 +18304,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &4991811024915011725
 GameObject:
   m_ObjectHideFlags: 0
@@ -18093,6 +18417,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5046531362453408859
 GameObject:
   m_ObjectHideFlags: 0
@@ -18204,6 +18530,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5074063605408037573
 GameObject:
   m_ObjectHideFlags: 0
@@ -18315,6 +18643,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5127920325824804252
 GameObject:
   m_ObjectHideFlags: 0
@@ -18426,6 +18756,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5174353519347356227
 GameObject:
   m_ObjectHideFlags: 0
@@ -18537,6 +18869,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5179290424734686855
 GameObject:
   m_ObjectHideFlags: 0
@@ -18648,6 +18982,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5193169074687964247
 GameObject:
   m_ObjectHideFlags: 0
@@ -18759,6 +19095,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5216635338511039374
 GameObject:
   m_ObjectHideFlags: 0
@@ -18870,6 +19208,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5224189997616881253
 GameObject:
   m_ObjectHideFlags: 0
@@ -18981,6 +19321,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5247131850862944176
 GameObject:
   m_ObjectHideFlags: 0
@@ -19092,6 +19434,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5253594100796043671
 GameObject:
   m_ObjectHideFlags: 0
@@ -19203,6 +19547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5275057180662678911
 GameObject:
   m_ObjectHideFlags: 0
@@ -19314,6 +19660,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5276581886231623041
 GameObject:
   m_ObjectHideFlags: 0
@@ -19425,6 +19773,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5288097675526943723
 GameObject:
   m_ObjectHideFlags: 0
@@ -19536,6 +19886,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5298594152883048316
 GameObject:
   m_ObjectHideFlags: 0
@@ -19647,6 +19999,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5339362637645459547
 GameObject:
   m_ObjectHideFlags: 0
@@ -19758,6 +20112,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5383105710094237725
 GameObject:
   m_ObjectHideFlags: 0
@@ -19869,6 +20225,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5412038653477335548
 GameObject:
   m_ObjectHideFlags: 0
@@ -19980,6 +20338,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5471764568243580851
 GameObject:
   m_ObjectHideFlags: 0
@@ -20091,6 +20451,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5486855074625625097
 GameObject:
   m_ObjectHideFlags: 0
@@ -20408,24 +20770,6 @@ Transform:
   - {fileID: 2707839562905883927}
   - {fileID: 3795769033490387357}
   - {fileID: 7970348723175288338}
-  - {fileID: 3710829498460520311}
-  - {fileID: 4327256793928512153}
-  - {fileID: 6424939830988315363}
-  - {fileID: 1802439215597560483}
-  - {fileID: 2346896955838470305}
-  - {fileID: 6076798676621474346}
-  - {fileID: 1548533041946413324}
-  - {fileID: 2090834610571042794}
-  - {fileID: 6475321582173943103}
-  - {fileID: 7729243908059453541}
-  - {fileID: 3237392851578720512}
-  - {fileID: 1287692689897521801}
-  - {fileID: 1235109069685922072}
-  - {fileID: 5344647119902089265}
-  - {fileID: 672784170218002754}
-  - {fileID: 5645344179007503558}
-  - {fileID: 6974505565440818947}
-  - {fileID: 8400071645162317173}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -20568,6 +20912,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5492826754523489616
 GameObject:
   m_ObjectHideFlags: 0
@@ -20679,6 +21025,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5542705534771044973
 GameObject:
   m_ObjectHideFlags: 0
@@ -20790,6 +21138,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5584039002739692535
 GameObject:
   m_ObjectHideFlags: 0
@@ -20901,6 +21251,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5593788833570202020
 GameObject:
   m_ObjectHideFlags: 0
@@ -21012,6 +21364,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5601085085189640123
 GameObject:
   m_ObjectHideFlags: 0
@@ -21123,6 +21477,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5631515586993027546
 GameObject:
   m_ObjectHideFlags: 0
@@ -21234,6 +21590,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5798472415186736315
 GameObject:
   m_ObjectHideFlags: 0
@@ -21345,6 +21703,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5905625750769835712
 GameObject:
   m_ObjectHideFlags: 0
@@ -21456,6 +21816,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5908280987463900998
 GameObject:
   m_ObjectHideFlags: 0
@@ -21567,6 +21929,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &5917730604606532060
 GameObject:
   m_ObjectHideFlags: 0
@@ -21678,6 +22042,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6088429316257400650
 GameObject:
   m_ObjectHideFlags: 0
@@ -21789,6 +22155,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6114950451727686940
 GameObject:
   m_ObjectHideFlags: 0
@@ -21900,6 +22268,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6152898551201492809
 GameObject:
   m_ObjectHideFlags: 0
@@ -22011,6 +22381,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6175634240412629948
 GameObject:
   m_ObjectHideFlags: 0
@@ -22122,6 +22494,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6194213257908641137
 GameObject:
   m_ObjectHideFlags: 0
@@ -22233,6 +22607,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6212854490684237993
 GameObject:
   m_ObjectHideFlags: 0
@@ -22344,6 +22720,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6339622150708878103
 GameObject:
   m_ObjectHideFlags: 0
@@ -22455,6 +22833,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6445841181208322483
 GameObject:
   m_ObjectHideFlags: 0
@@ -22566,6 +22946,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6487854393880494188
 GameObject:
   m_ObjectHideFlags: 0
@@ -22677,6 +23059,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6498681735702131562
 GameObject:
   m_ObjectHideFlags: 0
@@ -22788,6 +23172,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6510474886139643874
 GameObject:
   m_ObjectHideFlags: 0
@@ -22899,6 +23285,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6518855793525920213
 GameObject:
   m_ObjectHideFlags: 0
@@ -23010,6 +23398,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6521285580914619576
 GameObject:
   m_ObjectHideFlags: 0
@@ -23121,6 +23511,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6533968195562840739
 GameObject:
   m_ObjectHideFlags: 0
@@ -23232,6 +23624,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6575473834269752648
 GameObject:
   m_ObjectHideFlags: 0
@@ -23343,6 +23737,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6586095112952093058
 GameObject:
   m_ObjectHideFlags: 0
@@ -23454,6 +23850,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6623999705591918647
 GameObject:
   m_ObjectHideFlags: 0
@@ -23565,6 +23963,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6637516221773084089
 GameObject:
   m_ObjectHideFlags: 0
@@ -23676,6 +24076,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6639108543259428921
 GameObject:
   m_ObjectHideFlags: 0
@@ -23787,6 +24189,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6648348190609602822
 GameObject:
   m_ObjectHideFlags: 0
@@ -23898,6 +24302,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6667201757958801488
 GameObject:
   m_ObjectHideFlags: 0
@@ -24009,6 +24415,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6690589757365010455
 GameObject:
   m_ObjectHideFlags: 0
@@ -24120,6 +24528,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6729072909727863352
 GameObject:
   m_ObjectHideFlags: 0
@@ -24231,6 +24641,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6732211926236491794
 GameObject:
   m_ObjectHideFlags: 0
@@ -24342,6 +24754,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6757287445181394822
 GameObject:
   m_ObjectHideFlags: 0
@@ -24453,6 +24867,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6785169064849533037
 GameObject:
   m_ObjectHideFlags: 0
@@ -24564,6 +24980,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6808433201207149322
 GameObject:
   m_ObjectHideFlags: 0
@@ -24675,6 +25093,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6839335355274691844
 GameObject:
   m_ObjectHideFlags: 0
@@ -24786,6 +25206,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6854501462276255224
 GameObject:
   m_ObjectHideFlags: 0
@@ -24897,6 +25319,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6891942353942196231
 GameObject:
   m_ObjectHideFlags: 0
@@ -25008,6 +25432,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6947115107895638681
 GameObject:
   m_ObjectHideFlags: 0
@@ -25119,6 +25545,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6984216253105002242
 GameObject:
   m_ObjectHideFlags: 0
@@ -25230,6 +25658,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &6991929466629689317
 GameObject:
   m_ObjectHideFlags: 0
@@ -25341,6 +25771,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7097440207033520337
 GameObject:
   m_ObjectHideFlags: 0
@@ -25452,6 +25884,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7122031898992477154
 GameObject:
   m_ObjectHideFlags: 0
@@ -25563,6 +25997,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7129983614470222874
 GameObject:
   m_ObjectHideFlags: 0
@@ -25674,6 +26110,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7131362680811001994
 GameObject:
   m_ObjectHideFlags: 0
@@ -25785,6 +26223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7164564686008255411
 GameObject:
   m_ObjectHideFlags: 0
@@ -25896,6 +26336,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7197089427348929791
 GameObject:
   m_ObjectHideFlags: 0
@@ -26007,6 +26449,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7214981709924896736
 GameObject:
   m_ObjectHideFlags: 0
@@ -26118,6 +26562,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7270449075760917389
 GameObject:
   m_ObjectHideFlags: 0
@@ -26229,6 +26675,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7338095277198340274
 GameObject:
   m_ObjectHideFlags: 0
@@ -26340,6 +26788,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7371904549609478496
 GameObject:
   m_ObjectHideFlags: 0
@@ -26451,6 +26901,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7395710897127652514
 GameObject:
   m_ObjectHideFlags: 0
@@ -26562,6 +27014,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7497012307714308606
 GameObject:
   m_ObjectHideFlags: 0
@@ -26673,6 +27127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7515835135610115683
 GameObject:
   m_ObjectHideFlags: 0
@@ -26784,6 +27240,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7523738422487072270
 GameObject:
   m_ObjectHideFlags: 0
@@ -26895,6 +27353,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7552178047821281360
 GameObject:
   m_ObjectHideFlags: 0
@@ -27006,6 +27466,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7555693085045316694
 GameObject:
   m_ObjectHideFlags: 0
@@ -27117,6 +27579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7582561459432078900
 GameObject:
   m_ObjectHideFlags: 0
@@ -27228,6 +27692,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7582992002344944752
 GameObject:
   m_ObjectHideFlags: 0
@@ -27339,6 +27805,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7612141777806057550
 GameObject:
   m_ObjectHideFlags: 0
@@ -27450,6 +27918,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7639282559599007166
 GameObject:
   m_ObjectHideFlags: 0
@@ -27561,6 +28031,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7645173389211472296
 GameObject:
   m_ObjectHideFlags: 0
@@ -27672,6 +28144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7660431401119928923
 GameObject:
   m_ObjectHideFlags: 0
@@ -27783,6 +28257,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7668507656078289093
 GameObject:
   m_ObjectHideFlags: 0
@@ -27894,6 +28370,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7677842264956389612
 GameObject:
   m_ObjectHideFlags: 0
@@ -28005,6 +28483,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7770864175642524268
 GameObject:
   m_ObjectHideFlags: 0
@@ -28116,6 +28596,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7782069383853714289
 GameObject:
   m_ObjectHideFlags: 0
@@ -28227,6 +28709,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7791029265018473559
 GameObject:
   m_ObjectHideFlags: 0
@@ -28338,6 +28822,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7809952632618078189
 GameObject:
   m_ObjectHideFlags: 0
@@ -28449,6 +28935,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7817923204632378278
 GameObject:
   m_ObjectHideFlags: 0
@@ -28560,6 +29048,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7830286131988044080
 GameObject:
   m_ObjectHideFlags: 0
@@ -28671,6 +29161,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7850230358634497566
 GameObject:
   m_ObjectHideFlags: 0
@@ -28782,6 +29274,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7857454583991824235
 GameObject:
   m_ObjectHideFlags: 0
@@ -28893,6 +29387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7895351142005469790
 GameObject:
   m_ObjectHideFlags: 0
@@ -29004,6 +29500,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7903067147628353007
 GameObject:
   m_ObjectHideFlags: 0
@@ -29115,6 +29613,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7929494408114163487
 GameObject:
   m_ObjectHideFlags: 0
@@ -29226,6 +29726,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7957454045589150372
 GameObject:
   m_ObjectHideFlags: 0
@@ -29337,6 +29839,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7974744722437861765
 GameObject:
   m_ObjectHideFlags: 0
@@ -29448,6 +29952,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &7982380698632804533
 GameObject:
   m_ObjectHideFlags: 0
@@ -29559,6 +30065,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8008354924760716849
 GameObject:
   m_ObjectHideFlags: 0
@@ -29670,6 +30178,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8102782425324125953
 GameObject:
   m_ObjectHideFlags: 0
@@ -29781,6 +30291,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8119266792379319730
 GameObject:
   m_ObjectHideFlags: 0
@@ -29892,6 +30404,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8133307782748451990
 GameObject:
   m_ObjectHideFlags: 0
@@ -30003,6 +30517,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8191709271344868319
 GameObject:
   m_ObjectHideFlags: 0
@@ -30114,6 +30630,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8297728837111753254
 GameObject:
   m_ObjectHideFlags: 0
@@ -30225,6 +30743,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8352093229279832005
 GameObject:
   m_ObjectHideFlags: 0
@@ -30336,6 +30856,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8420623322397847473
 GameObject:
   m_ObjectHideFlags: 0
@@ -30447,6 +30969,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8434487245721956096
 GameObject:
   m_ObjectHideFlags: 0
@@ -30558,6 +31082,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8525835687653367598
 GameObject:
   m_ObjectHideFlags: 0
@@ -30669,6 +31195,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8540591912048051152
 GameObject:
   m_ObjectHideFlags: 0
@@ -30780,6 +31308,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8583021463739142643
 GameObject:
   m_ObjectHideFlags: 0
@@ -30891,6 +31421,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8637501051320665950
 GameObject:
   m_ObjectHideFlags: 0
@@ -31002,6 +31534,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8638599619413987109
 GameObject:
   m_ObjectHideFlags: 0
@@ -31113,6 +31647,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8646153775354066511
 GameObject:
   m_ObjectHideFlags: 0
@@ -31224,6 +31760,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8667563303011459582
 GameObject:
   m_ObjectHideFlags: 0
@@ -31335,6 +31873,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8684638086662110901
 GameObject:
   m_ObjectHideFlags: 0
@@ -31446,6 +31986,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8746800869593841443
 GameObject:
   m_ObjectHideFlags: 0
@@ -31557,6 +32099,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8799665341772229922
 GameObject:
   m_ObjectHideFlags: 0
@@ -31668,6 +32212,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8935409572999362081
 GameObject:
   m_ObjectHideFlags: 0
@@ -31779,6 +32325,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &8935903870451107721
 GameObject:
   m_ObjectHideFlags: 0
@@ -31890,6 +32438,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &9049109365622199814
 GameObject:
   m_ObjectHideFlags: 0
@@ -32001,6 +32551,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &9144486453762057601
 GameObject:
   m_ObjectHideFlags: 0
@@ -32112,6 +32664,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &9149271602451738228
 GameObject:
   m_ObjectHideFlags: 0
@@ -32223,6 +32777,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tileType: 0
+  isPaintable: 1
 --- !u!1 &9154884188140275913
 GameObject:
   m_ObjectHideFlags: 0
@@ -32334,1305 +32890,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b62f5a23f9c1845925f35d986375e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &672784170218390464
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (20)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -21.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 302
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &672784170218002754 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 672784170218390464}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1235109069685523354
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (19)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -12.466205
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1.0145428
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70711
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.70710367
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 300
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -269.999
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &1235109069685922072 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 1235109069685523354}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1287692689897396235
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (18)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -15.963142
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.50667775
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70711
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.7071036
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 299
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -269.999
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &1287692689897521801 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 1287692689897396235}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1548533041946547086
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -12.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071079
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 294
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &1548533041946413324 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 1548533041946547086}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1802439215597434913
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -7.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 291
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &1802439215597560483 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 1802439215597434913}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &2090834610570904936
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -12.485444
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.992666
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 295
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &2090834610571042794 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 2090834610570904936}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &2346896955838595619
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -7.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 7.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 292
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &2346896955838470305 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 2346896955838595619}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &3237392851578588034
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (17)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -17.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 10.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 298
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &3237392851578720512 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 3237392851578588034}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &3710829498460120565
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 7.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 288
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 7
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &3710829498460520311 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 3710829498460120565}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &4327256793928902683
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 4.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071079
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 289
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.50000024
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &4327256793928512153 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 4327256793928902683}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &5344647119901964979
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -23
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.000000014901159
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 301
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 7
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &5344647119902089265 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 5344647119901964979}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &5645344179007104580
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (21)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -24
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071079
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 303
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.50000024
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &5645344179007503558 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 5645344179007104580}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6076798676621074600
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 13.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 293
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &6076798676621474346 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 6076798676621074600}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6424939830988701793
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 4.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 290
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &6424939830988315363 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 6424939830988701793}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6475321582173810621
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 10.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 296
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &6475321582173943103 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 6475321582173810621}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6974505565440681345
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (22)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -21.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 304
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &6974505565440818947 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 6974505565440681345}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &7729243908059316967
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -17.486649
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.4914637
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 297
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &7729243908059453541 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 7729243908059316967}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &8400071645162455031
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 5486855074625625103}
-    m_Modifications:
-    - target: {fileID: 100002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_Name
-      value: wall1x2cm (23)
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_TagString
-      value: Cube
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -25
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.044
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.70710576
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.70710784
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_RootOrder
-      value: 305
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90.00001
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 0eedd3441a3ed9841ae74c84950dd7d4, type: 3}
---- !u!4 &8400071645162317173 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400002, guid: 0eedd3441a3ed9841ae74c84950dd7d4,
-    type: 3}
-  m_PrefabInstance: {fileID: 8400071645162455031}
-  m_PrefabAsset: {fileID: 0}
+  tileType: 0
+  isPaintable: 1

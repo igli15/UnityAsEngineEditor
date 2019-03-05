@@ -75,7 +75,7 @@ public class SceneExporter : Editor {
 		
 		if (mesh != null)
 		{
-			node.SetAttribute("mesh", pTransform.tag != "Untagged"?pTransform.tag:"Cube");
+			node.SetAttribute("mesh", pTransform.tag != "Untagged"?pTransform.tag: "cubeMesh");
 		}
 
 		return node;

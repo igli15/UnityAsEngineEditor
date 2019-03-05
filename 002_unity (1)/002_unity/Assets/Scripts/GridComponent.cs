@@ -26,7 +26,8 @@ public class GridComponent : MonoBehaviour
                     cubes[width] = Instantiate<GameObject>(cube, new Vector3(0 - width*tileRadius*2,0,0 + height*tileRadius*2), Quaternion.identity);
                     cubes[width].gameObject.transform.SetParent(this.transform);
                     cubes[width].gameObject.transform.localScale*=tileRadius*2;
-                    cubes[width].gameObject.name = "Cube";
+                cubes[width].tag = "GroundTile";
+                    cubes[width].gameObject.name = "GroundTile";
                
             }
         }
