@@ -22,6 +22,7 @@ TagManager:
   - WallBlock1x1
   - WallBlock2x2
   - refillStation
+  - balloon
   layers:
   - Default
   - TransparentFX

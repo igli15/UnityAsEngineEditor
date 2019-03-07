@@ -239,8 +239,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee3afbbf4112bd24c9b12dbc7a54d2fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 2
-  height: 3
+  width: 0
+  height: 0
   collisionLayer: wall
   collisionFilters: []
 --- !u!114 &2292213588867662955
