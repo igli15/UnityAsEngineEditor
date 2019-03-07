@@ -23,10 +23,13 @@ public class MGEGridComponent : MGEComponent
 
         component.AppendChild(ballonTransforms);
 
+        Vector3 ballonPos = Vector3.zero;
         foreach(Transform t in ballonTiles)
         {
             XmlElement e = pScene.CreateElement("ballonTile");
-            e.SetAttribute("pos",t.position.ToString("N4"));
+            ballonPos = t.transform.position;
+            ballonPos.x *= -1;
+            e.SetAttribute("pos",ballonPos.ToString("N4"));
             ballonTransforms.AppendChild(e);
         }
 
