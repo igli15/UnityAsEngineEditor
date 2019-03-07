@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 5eb0f8fb6d585d44d81028614be73bd1
+guid: 66ed8baca38ae2c45bc51b28f42dab4f
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: singleFlatBlockMiddle
-    400000: //RootNode
-    400002: singleFlatBlockMiddle
-    2100000: singleFlatBlockMiddleMat
-    2300000: singleFlatBlockMiddle
-    3300000: singleFlatBlockMiddle
-    4300000: singleFlatBlockMiddle
+    100000: singleFlatBlockEdge
+    100002: //RootNode
+    400000: singleFlatBlockEdge
+    400002: //RootNode
+    2100000: singleFlatBlockEdgeMat
+    2300000: singleFlatBlockEdge
+    3300000: singleFlatBlockEdge
+    4300000: singleFlatBlockEdge
   externalObjects: {}
   materials:
     importMaterials: 1

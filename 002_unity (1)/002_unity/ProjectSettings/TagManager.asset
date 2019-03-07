@@ -14,6 +14,14 @@ TagManager:
   - player
   - players
   - GroundTile
+  - wall_msingle
+  - wall_single
+  - wall_icorner
+  - wall_flat
+  - wall_ocorner
+  - WallBlock1x1
+  - WallBlock2x2
+  - refillStation
   layers:
   - Default
   - TransparentFX
