@@ -1,7 +1,15 @@
 <root>
   <GameObject name="Grid" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
     <Components>
-      <GridComponent gridSizeX="26" gridSizeY="15" tileRadius="0.5" />
+      <GridComponent gridSizeX="26" gridSizeY="15" tileRadius="0.5">
+        <BallonTilePositions>
+          <ballonTile pos="(-7.0000, 0.0000, 11.0000)" />
+          <ballonTile pos="(-8.0000, 0.0000, 11.0000)" />
+          <ballonTile pos="(-9.0000, 0.0000, 11.0000)" />
+          <ballonTile pos="(-10.0000, 0.0000, 11.0000)" />
+          <ballonTile pos="(-11.0000, 0.0000, 11.0000)" />
+        </BallonTilePositions>
+      </GridComponent>
     </Components>
     <GameObject name="GroundTile" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
       <Components />
@@ -503,7 +511,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -512,7 +520,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -521,7 +529,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -746,7 +754,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -2771,7 +2779,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -2996,7 +3004,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -3014,7 +3022,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -3239,7 +3247,7 @@
       <GameObject name="pCube1" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="GroundTile">
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="neutralNormal" diffuseColor="(1.0, 1.0, 1.0)" />
-          <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <TileComponent TileType="DEFAULT" isPaintable="False" />
         </Components>
       </GameObject>
     </GameObject>
@@ -4455,11 +4463,11 @@
       <LightComponent type="DIRECTIONAL" color="(1.0, 1.0, 1.0)" ambientColor="(1.0, 1.0, 1.0)" intensity="8.03" ambientContribution="0.24" specularContribution="0.8" attenuationConstants="(1.0, 0.4, 1.1)" cutoffAngle="10" outercutoffAngle="45" />
     </Components>
   </GameObject>
-  <GameObject name="Balloon" position="(12.0000, 1.5000, 7.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="balloon">
+  <GameObject name="Balloon" position="(12.0000, 1.5000, 7.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="cubeMesh">
     <Components>
       <TextureMaterial materialName="balloonMat" shininess="16" emissionScale="0.8" diffuseTexture="BalloonDiffuse" specularTexture="BalloonSpecular" emissionTexture="BalloonEmission" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
     </Components>
-    <GameObject name="ORB6" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="balloon">
+    <GameObject name="ORB6" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="cubeMesh">
       <Components>
         <TextureMaterial materialName="balloonMat" shininess="16" emissionScale="0.8" diffuseTexture="BalloonDiffuse" specularTexture="BalloonSpecular" emissionTexture="BalloonEmission" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
       </Components>
