@@ -5,9 +5,11 @@ using UnityEngine;
 
 [RequireComponent(typeof(GridComponent))]
 
-
 public class MGEGridComponent : MGEComponent
 {
+    public float playerPosOffsetX = 0.2f;
+    public float playerPosOffsetY = 0.3f;
+    public float balloonSpawnTime = 10;
     public Transform[] ballonTiles;
     public override XmlElement ParseSelf(XmlDocument pScene)
     {
@@ -19,7 +21,11 @@ public class MGEGridComponent : MGEComponent
         component.SetAttribute("gridSizeY",gridComponent.GetGridSizeY().ToString());
         component.SetAttribute("tileRadius",gridComponent.GetTileRadius().ToString());
 
-         XmlElement ballonTransforms = pScene.CreateElement("BallonTilePositions");
+        component.SetAttribute("playerPosOffsetX",playerPosOffsetX.ToString());
+        component.SetAttribute("playerPosOffsetY",playerPosOffsetY.ToString());
+        component.SetAttribute("balloonSpawnTime",balloonSpawnTime.ToString());
+
+        XmlElement ballonTransforms = pScene.CreateElement("BallonTilePositions");
 
         component.AppendChild(ballonTransforms);
 
