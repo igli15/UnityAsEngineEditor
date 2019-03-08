@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44544423, g: 0.4951086, b: 0.5740498, a: 1}
+  m_IndirectSpecularColor: {r: 0.44606072, g: 0.49582195, b: 0.5744881, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -112,97 +112,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &386065556
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 386065559}
-  - component: {fileID: 386065558}
-  - component: {fileID: 386065557}
-  m_Layer: 0
-  m_Name: Directional Light (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &386065557
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 386065556}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b6fabc2c7b19dc4786546a8d67cd267, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  type: 0
-  color: {r: 1, g: 1, b: 1, a: 1}
-  ambientColor: {r: 1, g: 1, b: 1, a: 1}
-  intensity: 8.03
-  ambientContribution: 0.24
-  specularContribution: 0.8
-  attenuationConstants: {x: 1, y: 0.42, z: 1.07}
-  cutoffAngle: 10
-  outercutoffAngle: 45
---- !u!108 &386065558
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 386065556}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 0.65
-  m_Range: 10
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 2
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!4 &386065559
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 386065556}
-  m_LocalRotation: {x: 0.4531537, y: 0.408218, z: -0.109381735, w: 0.78488564}
-  m_LocalPosition: {x: 1.85, y: 3.85, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 53.192, y: 64.703, z: 19.325}
 --- !u!1001 &395899861
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -216,11 +125,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: ad0e5f0f1322a3a4aaa4890bb6be99f2, type: 3}
       propertyPath: m_TagString
-      value: balloon
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: ad0e5f0f1322a3a4aaa4890bb6be99f2, type: 3}
       propertyPath: m_TagString
-      value: balloon
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ad0e5f0f1322a3a4aaa4890bb6be99f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -252,7 +161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ad0e5f0f1322a3a4aaa4890bb6be99f2, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ad0e5f0f1322a3a4aaa4890bb6be99f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -428,13 +337,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 406990586}
-  m_LocalRotation: {x: -0.34682778, y: 0.16172959, z: -0.39044818, w: 0.8373197}
+  m_LocalRotation: {x: 0.04044234, y: 0.7151145, z: -0.5206762, w: 0.46462032}
   m_LocalPosition: {x: 1.85, y: 3.85, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: -27.034, y: 37.454002, z: -59.318005}
+  m_LocalEulerAnglesHint: {x: 51.469, y: 92.397, z: -43.144}
 --- !u!114 &406990589
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -450,7 +359,7 @@ MonoBehaviour:
   type: 0
   color: {r: 1, g: 1, b: 1, a: 1}
   ambientColor: {r: 1, g: 1, b: 1, a: 1}
-  intensity: 8.03
+  intensity: 0.8
   ambientContribution: 0.24
   specularContribution: 0.8
   attenuationConstants: {x: 1, y: 0.42, z: 1.07}
@@ -1308,6 +1217,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.data[0]
+      value: 
+      objectReference: {fileID: 1470107503}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.data[1]
+      value: 
+      objectReference: {fileID: 1470107502}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.data[2]
+      value: 
+      objectReference: {fileID: 1470107501}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.data[3]
+      value: 
+      objectReference: {fileID: 1470107500}
+    - target: {fileID: 4787824163567225021, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: ballonTiles.Array.data[4]
+      value: 
+      objectReference: {fileID: 1470107499}
     - target: {fileID: 1951846223689586118, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -1453,6 +1392,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 4407481309238998810, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1315118114722714417, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -1593,6 +1537,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 4729980592422718105, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2779187917150220850, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -1612,6 +1561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5051664594515190373, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6481143005638645043, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -1773,6 +1727,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 276442675227845306, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8187302807072456351, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -1923,6 +1882,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 2109988423010797258, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5873884463767282155, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -2002,6 +1966,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 5072672103129659973, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6937056853370986582, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -2102,6 +2071,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 8377680642323588483, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8352578941386187460, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -2308,10 +2282,20 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 3196952896094466378, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 488925626060984841, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 338321799818554554, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1045669207219266412, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -2368,6 +2352,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 3029237535845197718, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 64006221472407095, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -2377,6 +2366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228432881674356494, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2162341123581306751, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -2457,6 +2451,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687142648027415944, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4735388122962437612, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -2613,6 +2612,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 4584441037592650621, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5583934732507338156, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -2707,6 +2711,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6594129074404126683, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8717367188289937430, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -3008,6 +3017,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 7397088195980361949, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 993153428665143988, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -3123,6 +3137,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 1651538924125429154, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2086003859523712319, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -3157,6 +3176,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6896220289460234420, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7015626663934303110, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -3197,6 +3221,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7426323709897304464, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 55294936322693764, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -3272,6 +3301,11 @@ PrefabInstance:
         type: 3}
       propertyPath: normalTextureName
       value: neutralNormal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2387384650202660790, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8026125433930684167, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
@@ -3543,6 +3577,11 @@ PrefabInstance:
       propertyPath: normalTextureName
       value: neutralNormal
       objectReference: {fileID: 0}
+    - target: {fileID: 4233378920116816567, guid: 468a84711ae5c58428139f93e0a90ce1,
+        type: 3}
+      propertyPath: tileType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2861112502353504948, guid: 468a84711ae5c58428139f93e0a90ce1,
         type: 3}
       propertyPath: normalTextureName
@@ -3768,106 +3807,6 @@ PrefabInstance:
       propertyPath: isPaintable
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4407481309238998810, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4729980592422718105, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5051664594515190373, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 276442675227845306, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2109988423010797258, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5072672103129659973, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8377680642323588483, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3196952896094466378, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 338321799818554554, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3029237535845197718, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8228432881674356494, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3687142648027415944, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4584441037592650621, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594129074404126683, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7397088195980361949, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1651538924125429154, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6896220289460234420, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426323709897304464, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2387384650202660790, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: isPaintable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4233378920116816567, guid: 468a84711ae5c58428139f93e0a90ce1,
-        type: 3}
-      propertyPath: tileType
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 468a84711ae5c58428139f93e0a90ce1, type: 3}
 --- !u!4 &1470107497 stripped
@@ -3879,6 +3818,36 @@ Transform:
 --- !u!4 &1470107498 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 855880818989342975, guid: 468a84711ae5c58428139f93e0a90ce1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1470107496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1470107499 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4459623386104938584, guid: 468a84711ae5c58428139f93e0a90ce1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1470107496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1470107500 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2034345631305045994, guid: 468a84711ae5c58428139f93e0a90ce1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1470107496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1470107501 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 154093963047484876, guid: 468a84711ae5c58428139f93e0a90ce1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1470107496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1470107502 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5605975082212686634, guid: 468a84711ae5c58428139f93e0a90ce1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1470107496}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1470107503 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1807895502645469810, guid: 468a84711ae5c58428139f93e0a90ce1,
     type: 3}
   m_PrefabInstance: {fileID: 1470107496}
   m_PrefabAsset: {fileID: 0}
