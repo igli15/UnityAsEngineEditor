@@ -23,6 +23,7 @@ TagManager:
   - WallBlock2x2
   - refillStation
   - balloon
+  - suzanna
   layers:
   - Default
   - TransparentFX
