@@ -615,8 +615,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ddd0857319f20749a01fab1b1facb1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minRange: 1
-  maxRange: 5
+  minRange: 0
+  maxRange: 6
   inkMaxLevel: 100
   rateOfInkGain: 0.1
 --- !u!114 &677254554
@@ -1179,7 +1179,7 @@ PrefabInstance:
     - target: {fileID: 4100665745863481908, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
       propertyPath: isPaintable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8798336224028973680, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
@@ -1239,7 +1239,7 @@ PrefabInstance:
     - target: {fileID: 3019422904106485420, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
       propertyPath: isPaintable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9190395698117377904, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
@@ -1598,7 +1598,7 @@ PrefabInstance:
     - target: {fileID: 1576743557854075073, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
       propertyPath: isPaintable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7331798515034085632, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
@@ -1658,7 +1658,7 @@ PrefabInstance:
     - target: {fileID: 7912433538652474321, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
       propertyPath: isPaintable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4626676641208733726, guid: 991e648fd93b7a44fa0dfc5972792068,
         type: 3}
@@ -1709,6 +1709,16 @@ PrefabInstance:
         type: 3}
       propertyPath: tileType
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3053264402495561610, guid: 991e648fd93b7a44fa0dfc5972792068,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2816142750384443964, guid: 991e648fd93b7a44fa0dfc5972792068,
+        type: 3}
+      propertyPath: isPaintable
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 991e648fd93b7a44fa0dfc5972792068, type: 3}
@@ -2682,8 +2692,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ddd0857319f20749a01fab1b1facb1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minRange: 1
-  maxRange: 5
+  minRange: 0
+  maxRange: 6
   inkMaxLevel: 100
   rateOfInkGain: 0.1
 --- !u!114 &1996182749
