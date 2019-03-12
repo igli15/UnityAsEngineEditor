@@ -25,6 +25,23 @@ TagManager:
   - balloon
   - suzanna
   - cannon
+  - bigTemple
+  - tree1
+  - borderLeft
+  - borderRight
+  - bottomBorder
+  - bush1
+  - cornerPillar
+  - head
+  - rocks
+  - sidePillar
+  - sideTemple
+  - statue
+  - topBorder
+  - topBorderDetail
+  - tree2
+  - respawnPointIce
+  - respawnPointLava
   layers:
   - Default
   - TransparentFX
