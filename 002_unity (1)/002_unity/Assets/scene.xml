@@ -1,4 +1,12 @@
 <root>
+  <GameObject name="Balloon" position="(-4.5000, 5.0000, 17.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="cubeMesh">
+    <Components />
+    <GameObject name="ORB6" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="balloon">
+      <Components>
+        <TextureMaterial materialName="balloonMat" shininess="16" emissionScale="0.8" diffuseTexture="BalloonDiffuse" specularTexture="BalloonSpecular" emissionTexture="BalloonEmission" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
+      </Components>
+    </GameObject>
+  </GameObject>
   <GameObject name="cannon (2)" position="(-8.0000, 0.5000, 3.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
     <Components />
     <GameObject name="pCylinder12" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(2.0000, 2.0000, 2.0000)" mesh="cannon">
@@ -1631,6 +1639,7 @@
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
           <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <BalloonSpawner spawnOnStart="False" spawnTime="20" />
         </Components>
       </GameObject>
     </GameObject>
@@ -1874,6 +1883,7 @@
         <Components>
           <TextureMaterial materialName="NeuturalMat" shininess="16" emissionScale="0.8" diffuseTexture="neutralDiffuse" specularTexture="neutralSpecular" emissionTexture="NONE" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
           <TileComponent TileType="DEFAULT" isPaintable="True" />
+          <BalloonSpawner spawnOnStart="True" spawnTime="5" />
         </Components>
       </GameObject>
     </GameObject>
@@ -4468,14 +4478,6 @@
       <GameObject name="default" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
         <Components />
       </GameObject>
-    </GameObject>
-  </GameObject>
-  <GameObject name="Balloon" position="(-4.5000, 5.0000, 17.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="cubeMesh">
-    <Components />
-    <GameObject name="ORB6" position="(0.0000, 0.0000, 0.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)" mesh="balloon">
-      <Components>
-        <TextureMaterial materialName="balloonMat" shininess="16" emissionScale="0.8" diffuseTexture="BalloonDiffuse" specularTexture="BalloonSpecular" emissionTexture="BalloonEmission" normalTexture="NONE" diffuseColor="(1.0, 1.0, 1.0)" />
-      </Components>
     </GameObject>
   </GameObject>
   <GameObject name="Directional Light (2)" position="(-1.8500, 3.8500, 0.0000)" rotation="(0.7071, 0.0000, 0.0000, 0.7071)" scale="(1.0000, 1.0000, 1.0000)">
