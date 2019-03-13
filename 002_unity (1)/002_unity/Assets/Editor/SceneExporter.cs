@@ -23,7 +23,7 @@ public class SceneExporter : Editor {
 
         //string mgePath = @"D:\Den Haag\Program Files (x86)\Project3rdPerson\mge_v18_student_version\assets\mge\scenes\" + scene.name + ".xml";
         //string mgePath = @"C:\Users\Igli\Desktop\Project-Third-Person\mge_v18_student_version\assets\mge\scenes\" + "scene" + ".xml";
-        string mgePath = @"D:\SchoolWork\Year2\Quartile3\project\engine\mge_v18_student_version\assets\mge\scenes\" + scene.name + ".xml";
+        string mgePath = @"D:\SchoolWork\Year2\Quartile3\project\engine\mge_v18_student_version\assets\mge\scenes\" + "scene" + ".xml";
         //string mgePath = @"D:\PROJECT 2.3\mge_v18_student_version\assets\mge\scenes\" + scene.name + ".xml";
         //string mgePath = @"C:\Users\Malte\Documents\ProjectDart\mge_v18_student_version\assets\mge\scenes" + scene.name + ".xml";
 
