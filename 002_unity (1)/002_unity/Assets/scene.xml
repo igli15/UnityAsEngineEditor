@@ -99,6 +99,7 @@
       <GameObject name="sideTemple" position="(27.8600, 1.0500, 10.8300)" rotation="(0.0000, -0.7071, 0.0000, 0.7071)" scale="(1.0000, 1.0000, 1.0000)" mesh="sideTemple">
         <Components>
           <TextureMaterial materialName="sideTemple" shininess="16" emissionScale="0.8" diffuseTexture="sideTempleRedDiffuse" specularTexture="sideTempleRedSpecular" emissionTexture="sideTempleRedEmission" normalTexture="sideTempleRedNormal" diffuseColor="(1.0, 1.0, 1.0)" />
+          <LavaEmission />
         </Components>
       </GameObject>
     </GameObject>
@@ -163,6 +164,7 @@
       <GameObject name="sideTemple (1)" position="(-3.0500, 1.1000, 2.9700)" rotation="(0.0000, -0.7071, 0.0000, -0.7071)" scale="(1.0000, 1.0000, 1.0000)" mesh="sideTemple">
         <Components>
           <TextureMaterial materialName="sideTemple2" shininess="16" emissionScale="0.8" diffuseTexture="sideTempleBlueDiffuse" specularTexture="sideTempleBlueDiffuse" emissionTexture="sideTempleBlueDiffuse" normalTexture="sideTempleBlueDiffuse" diffuseColor="(1.0, 1.0, 1.0)" />
+          <IceEmission />
         </Components>
       </GameObject>
     </GameObject>
