@@ -4458,7 +4458,7 @@
       </Components>
     </GameObject>
   </GameObject>
-  <GameObject name="cannon (4)" position="(12.0000, 0.5000, 6.3518)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
+  <GameObject name="cannon (4)" position="(12.0000, 0.5000, 6.0000)" rotation="(0.0000, 0.0000, 0.0000, 1.0000)" scale="(1.0000, 1.0000, 1.0000)">
     <Components>
       <CannonComponent shootingRange="15" FacingDir="UP" />
     </Components>
